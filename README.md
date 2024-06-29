@@ -1,6 +1,6 @@
 # React + Vite
 ## please chackout Project 🧑‍💻😊
-[Visit]("https://password-generator-react-js-three.vercel.app/")
+-[Visit](https://password-generator-react-js-three.vercel.app/)
 
 ## Versatile Password Options: Generates passwords with numbers, strings, and special characters.🤗
 ## Customizable Length: Allows users to adjust the password length to their preference.
